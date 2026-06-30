@@ -88,7 +88,7 @@ export default function Home() {
               <h1 className="text-4xl font-bold mb-4 leading-tight">
                 Join the hunt for{" "}
                 <span className="text-main">
-                  Five Year Circle on BSC
+                  Five Year Cycle on BSC
                 </span>
               </h1>
               <p className="text-gray-400 mb-6">
